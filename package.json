@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openai": "^2.0.5",
+    "twitter-api-v2": "^1.12.2"
+  }
+}
